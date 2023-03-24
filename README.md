@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there my name is Sarah 👋 
+
+- I'm a software developer with 2 years of experience in the field 
+- Focused on creating Python-based solutions
+- Experience working with frontend technologies as well as Amazon Web Services (AWS)
+- My Github is a collection of my personal projects showcasing my skills in AWS, Python, Javascript, HTML, and CSS.
 
 <!--
 **sshokoor/sshokoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
