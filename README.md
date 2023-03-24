@@ -1,4 +1,4 @@
-### Hi there my name is Sarah 👋 
+Hi there my name is Sarah 👋 
 
 - I'm a software developer with 2 years of experience in the field 
 - Focused on creating Python-based solutions
